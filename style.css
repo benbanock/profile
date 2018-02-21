@@ -45,8 +45,8 @@ a:hover {
 
 
 .pic-size {
-  width:300px;
-  height:height;
+  width:auto;
+  height:590px;
 }
 
 .btn-blue {
@@ -65,6 +65,20 @@ a:hover {
 }
 
 .big {
-    font-size: 25 px;
+  font-size: 25px;
 
+}
+
+.circling{
+  border-radius: 100px;
+  box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+#size_profile {
+  width:600px;
+  height:height;
+}
+
+.black-color {
+  color:black;
 }
