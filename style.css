@@ -1,0 +1,65 @@
+h1,h2,h3 {
+  font-family: 'Playfair Display', serif;
+  color: black;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+body {
+  background-image: url("images/fond1.jpg");
+  background-size:cover;
+  background-position:center center;
+  font-family: 'Oswald', sans-serif;
+  background-color: #c5bfb3;
+  color: black;
+  font-size: 20px;
+  line-height: 1.6em;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #086cc2;
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.card {
+  background: #fafafa;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+  padding:20px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+
+}
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+
+.pic-size {
+  width:300px;
+  height:height;
+}
+
+.btn-blue {
+  background-color:#125fed ;
+  color: white;
+  padding: 10px;
+  border-radius: 3px;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+
+}
+.text-center {
+  text-align: center;
+}
+.list-big {
+  font-size: 25px;
+}
